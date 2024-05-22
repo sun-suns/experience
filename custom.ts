@@ -18,7 +18,7 @@ enum CustomBlock {
     EmeraldBlock = 133
 }
 
-//% weight=999 color=#000000 icon="\uf1b3"
+//% weight=999 color=#c71585 icon="\uf1b3"
 //% block="体験（たいけん）"
 namespace lesson0 {
 
