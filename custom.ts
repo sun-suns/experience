@@ -18,13 +18,13 @@ enum CustomBlock {
     EmeraldBlock = 133
 }
 
-//% weight=94 color=#EC7505 icon="\uf1b3"
-//% block="体験会（たいけんかい）"
+//% weight=999 color=#000000 icon="\uf1b3"
+//% block="体験（たいけん）"
 namespace lesson0 {
 
     //% weight=90
     //% blockId=customPlace
-    //% block="$block を $pos に置（お）く"
+    //% block="$block を $pos におく"
     //% block.shadow=customBlock
     //% pos.shadow="positionXY"
     //% topblock topblockWeight=85
@@ -51,7 +51,7 @@ namespace lesson0 {
 
     //% weight=80
     //% blockId=positionXY
-    //% block="ワールド たいようのほうこう：$x うえのほうこう：$y"
+    //% block="たいよう：$x うえ：$y"
     //% inlineInputMode=inline
     //% x.defl=0
     //% y.defl=0
