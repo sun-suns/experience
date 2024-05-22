@@ -2,3 +2,6 @@
 ## プログラミングすることはありません。
 ### @hideIteration true
 プログラミングすることはありません。
+```blocks
+blocks
+```
