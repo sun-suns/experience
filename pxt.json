@@ -11,7 +11,9 @@
         "main.ts",
         "README.md",
         "custom.ts",
-        "customblock.jres"
+        "customblock.jres",
+        "nocode.md",
+        "tutorial1.md"
     ],
     "testFiles": [
         "test.ts"
