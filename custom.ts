@@ -127,7 +127,7 @@ enum CustomBlock {
     //% blockIdentity="blocks.block" enumval=983276 block="黒色のコンクリート"
     //% jres alias=BLACK_CONCRETE
     BlackConcrete = 983276,
-	    //% blockIdentity="blocks.block" enumval=241 block="白色の色付きガラス"
+    //% blockIdentity="blocks.block" enumval=241 block="白色の色付きガラス"
     //% jres alias=WHITE_STAINED_GLASS
     WhiteStainedGlass = 241,
     //% blockIdentity="blocks.block" enumval=65777 block="橙色の色付きガラス"
