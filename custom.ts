@@ -16,22 +16,22 @@ enum CustomBlock {
     //% blockIdentity="blocks.block" enumval=133 block="エメラルドブロック"
     //% jres alias=EMERALD_BLOCK
     EmeraldBlock = 133,
-	//% blockIdentity="blocks.block" enumval=45 block="レンガブロック"
+    //% blockIdentity="blocks.block" enumval=45 block="レンガブロック"
     //% jres alias=BRICKS
     Bricks = 45,
-	//% blockIdentity="blocks.block" enumval=46 block="TNT"
+    //% blockIdentity="blocks.block" enumval=46 block="TNT"
     //% jres alias=TNT
     TNT = 46,
-	//% blockIdentity="blocks.block" enumval=81 block="サボテン"
+    //% blockIdentity="blocks.block" enumval=81 block="サボテン"
     //% jres alias=CACTUS
     Cactus = 81,
-	//% blockIdentity="blocks.block" enumval=86 block="カボチャ"
+    //% blockIdentity="blocks.block" enumval=86 block="カボチャ"
     //% jres alias=PUMPKIN
     Pumpkin = 86,
-	//% blockIdentity="blocks.block" enumval=20 block="ガラス"
+    //% blockIdentity="blocks.block" enumval=20 block="ガラス"
     //% jres alias=GLASS
     Glass = 20,
-	//% blockIdentity="blocks.block" enumval=219 block="紫色の彩釉テラコッタ"
+    //% blockIdentity="blocks.block" enumval=219 block="紫色の彩釉テラコッタ"
     //% jres alias=PURPLE_GLAZED_TERRACOTTA
     PurpleGlazedTerracotta = 219,
     //% blockIdentity="blocks.block" enumval=220 block="白色の彩釉テラコッタ"
