@@ -1,5 +1,5 @@
 
-> このページを開く [https://sun-suns.github.io/test_pjt/](https://sun-suns.github.io/test_pjt/)
+> このページを開く [https://sun-suns.github.io/test_pjt/](https://sun-suns.github.io/experience/)
 
 ## 拡張機能として使用
 
@@ -8,7 +8,7 @@
 * [https://minecraft.makecode.com/](https://minecraft.makecode.com/) を開く
 * **新しいプロジェクト** をクリックしてください
 * ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/sun-suns/test_pjt** を検索してインポートします。
+* **https://github.com/sun-suns/experience** を検索してインポートします。
 
 ## このプロジェクトを編集します
 
