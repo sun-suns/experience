@@ -20,10 +20,7 @@
     "testFiles": [
         "test.ts"
     ],
-    "targetVersions": {
-        "target": "1.7.28",
-        "targetId": "minecraft"
-    },
+    "public": true,
     "supportedTargets": [
         "minecraft"
     ],
