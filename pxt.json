@@ -13,7 +13,9 @@
         "custom.ts",
         "customblock.jres",
         "nocode.md",
-        "tutorial1.md"
+        "tutorial1.md",
+        "tutorial2.md",
+        "tutorial3.md"
     ],
     "testFiles": [
         "test.ts"
