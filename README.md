@@ -16,7 +16,7 @@ MakeCode でこのリポジトリを編集します。
 
 * [https://minecraft.makecode.com/](https://minecraft.makecode.com/) を開く
 * **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
-* **https://github.com/sun-suns/test_pjt** を貼り付けてインポートをクリックしてください
+* **https://github.com/sun-suns/experience** を貼り付けてインポートをクリックしてください
 
 #### メタデータ (検索、レンダリングに使用)
 
