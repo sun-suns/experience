@@ -1,5 +1,5 @@
 {
-    "name": "test_pjt",
+    "name": "experience",
     "version": "0.0.4",
     "description": "",
     "dependencies": {
@@ -25,5 +25,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }

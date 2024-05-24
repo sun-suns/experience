@@ -15,7 +15,7 @@ enum CustomBlock {
     DiamondBlock = 57,
     //% blockIdentity="blocks.block" enumval=133 block="エメラルドブロック"
     //% jres alias=EMERALD_BLOCK
-    EmeraldBlock = 133
+    EmeraldBlock = 133,
 	//% blockIdentity="blocks.block" enumval=45 block="レンガブロック"
     //% jres alias=BRICKS
     Bricks = 45,
