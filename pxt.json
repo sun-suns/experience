@@ -19,7 +19,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
     "targetVersions": {
         "target": "1.19.53",
         "targetId": "minecraft"
